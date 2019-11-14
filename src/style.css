@@ -1,0 +1,9 @@
+body {
+    padding: 1rem;
+}
+
+#check {
+    text-transform: uppercase;
+    padding: 2rem;
+    border: 5px solid blue;
+}
